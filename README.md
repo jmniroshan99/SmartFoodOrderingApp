@@ -23,11 +23,12 @@ The Smart Food Ordering App is a Kotlin-based Android application that allows us
 - Database: Firebase  
 - Version Control: GitHub  
 
-👥 Team Members
-1. HICT-2020-52 -Chathurani Dilrukshi-Team Leader  
-2. HICT/2021/03 -K.Y.I.Jayasinghe
-3. HICT/2021/22 - J.M.Niroshan
-4. HICT/2021/32 - M.P.T.D.Deepashika  
-5. HICT/2020/56 - J.B.S.S.Kavindya
+ 👥 Team Members and Roles
+1. HICT/2020/52 Chathurani Dilrukshi: Team Leader / Project Coordinator  
+2. HICT/2021/03  K.Y.I. Jayasinghe: UI/UX Designer  
+3. HICT/2021/22 J.M. Niroshan: Frontend Developer  
+4. HICT/2021/32  M.P.T.D. Deepashika: Backend & Database Developer  
+5. HICT/2020/56  J.B.S.S. Kavindya: Testing & Documentation 
+
 
  
